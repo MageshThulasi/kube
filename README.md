@@ -19,6 +19,7 @@ The `cka` script allows you to run setup, validation, solution scripts, or displ
 ```bash
 ./cka setup 1
 ```
+
 ### 📌 Rest of the Available Actions
 ```bash
 ./cka validate 1
