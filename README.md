@@ -14,10 +14,13 @@ The `cka` script allows you to run setup, validation, solution scripts, or displ
 
 ---
 
-## ✅ 📌 Available Actions
+## ✅ Setup the Lab
 
 ```bash
 ./cka setup 1
+```
+### 📌 Rest of the Available Actions
+```bash
 ./cka validate 1
 ./cka question 1
 ./cka solution 1
