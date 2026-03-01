@@ -8,5 +8,6 @@
 🔹 frontend and the backend deployments in the least permissive way and deploy that yaml
 
 🚀 Video Link 🚀
+https://www.youtube.com/watch?v=jgHrStTtGXQ
 https://youtu.be/EIjpWA0AGG4?si=ih4IWm4wsDeIPzbM
 
