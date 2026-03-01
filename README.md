@@ -15,16 +15,16 @@ The `cka` script allows you to run setup, validation, solution scripts, or displ
 ---
 
 ## ✅ Setup the Lab
-
+Clone this repo and execute these commands from the parent folder of kube repository.
 ```bash
-./cka setup 1
+./kube/cka setup 1
 ```
 
 ### 📌 Rest of the Available Actions
 ```bash
-./cka question 1
-./cka validate 1
-./cka solution 1
+./kube/cka question 1
+./kube/cka validate 1
+./kube/cka solution 1
 ```
 
 ---
