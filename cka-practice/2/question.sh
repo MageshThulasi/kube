@@ -11,5 +11,6 @@
 🔹 Note: A GatewayClass named nginx-class is already installed in the cluster
 
 🚀 Video link 🚀 
+https://www.youtube.com/watch?v=lcIK1qWfq2k
 https://youtu.be/W-Rt_U8any4?si=KD_6oVewmhPgu1NZ
 
